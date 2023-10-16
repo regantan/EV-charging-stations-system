@@ -1,0 +1,236 @@
+------------------------------------------------------------------------------------------------------------
+Iteration: 2
+Logged Time: 			Mon 2023-10-16 02:44:11
+Alert reported time: 	Mon 2023-10-16 02:44:11
+Number of adjacent node: 3
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+3				(1, 1) 				5 		1
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+2				(1, 0) 				5 		3
+1				(0, 1) 				5 		3
+5				(2, 1) 				5 		1
+
+Nearby Nodes 	Coord
+0				(0, 0)
+4				(2, 0)
+7				(3, 1)
+
+Available station nearby (no report received in last 2 iterations): 0 4 7
+Communication Time: -1.096240
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged Time: 			Mon 2023-10-16 02:44:12
+Alert reported time: 	Mon 2023-10-16 02:44:12
+Number of adjacent node: 2
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+0				(0, 0) 				5 		3
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+1				(0, 1) 				5 		1
+2				(1, 0) 				5 		3
+
+Nearby Nodes 	Coord
+3				(1, 1)
+4				(2, 0)
+
+Available station nearby (no report received in last 2 iterations): 3 4
+Communication Time: -1.095118
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged Time: 			Mon 2023-10-16 02:44:12
+Alert reported time: 	Mon 2023-10-16 02:44:12
+Number of adjacent node: 3
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+3				(1, 1) 				5 		2
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+2				(1, 0) 				5 		3
+1				(0, 1) 				5 		1
+5				(2, 1) 				5 		3
+
+Nearby Nodes 	Coord
+0				(0, 0)
+4				(2, 0)
+7				(3, 1)
+
+Available station nearby (no report received in last 2 iterations): 0 4 7
+Communication Time: -1.101299
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged Time: 			Mon 2023-10-16 02:44:12
+Alert reported time: 	Mon 2023-10-16 02:44:12
+Number of adjacent node: 2
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+1				(0, 1) 				5 		1
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+0				(0, 0) 				5 		3
+3				(1, 1) 				5 		2
+
+Nearby Nodes 	Coord
+2				(1, 0)
+5				(2, 1)
+
+Available station nearby (no report received in last 2 iterations): None
+Communication Time: -1.094880
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged Time: 			Mon 2023-10-16 02:44:12
+Alert reported time: 	Mon 2023-10-16 02:44:12
+Number of adjacent node: 3
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+7				(3, 1) 				5 		3
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+6				(3, 0) 				5 		2
+5				(2, 1) 				5 		2
+9				(4, 1) 				5 		2
+
+Nearby Nodes 	Coord
+3				(1, 1)
+4				(2, 0)
+8				(4, 0)
+11				(5, 1)
+
+Available station nearby (no report received in last 2 iterations): 3 4 8 11
+Communication Time: -0.409125
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 3
+Logged Time: 			Mon 2023-10-16 02:44:12
+Alert reported time: 	Mon 2023-10-16 02:44:12
+Number of adjacent node: 3
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+11				(5, 1) 				5 		3
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+10				(5, 0) 				5 		3
+9				(4, 1) 				5 		2
+13				(6, 1) 				5 		1
+
+Nearby Nodes 	Coord
+7				(3, 1)
+8				(4, 0)
+12				(6, 0)
+15				(7, 1)
+
+Available station nearby (no report received in last 2 iterations): 7 8 12 15
+Communication Time: -3.395116
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged Time: 			Mon 2023-10-16 02:44:13
+Alert reported time: 	Mon 2023-10-16 02:44:13
+Number of adjacent node: 2
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+1				(0, 1) 				5 		3
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+0				(0, 0) 				5 		1
+3				(1, 1) 				5 		1
+
+Nearby Nodes 	Coord
+2				(1, 0)
+5				(2, 1)
+
+Available station nearby (no report received in last 2 iterations): 2 5
+Communication Time: -1.101521
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged Time: 			Mon 2023-10-16 02:44:13
+Alert reported time: 	Mon 2023-10-16 02:44:13
+Number of adjacent node: 3
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+8				(4, 0) 				5 		2
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+9				(4, 1) 				5 		2
+6				(3, 0) 				5 		2
+10				(5, 0) 				5 		3
+
+Nearby Nodes 	Coord
+4				(2, 0)
+7				(3, 1)
+11				(5, 1)
+12				(6, 0)
+
+Available station nearby (no report received in last 2 iterations): 4 7 11 12
+Communication Time: -3.043345
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged Time: 			Mon 2023-10-16 02:44:13
+Alert reported time: 	Mon 2023-10-16 02:44:13
+Number of adjacent node: 3
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+7				(3, 1) 				5 		2
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+6				(3, 0) 				5 		2
+5				(2, 1) 				5 		1
+9				(4, 1) 				5 		3
+
+Nearby Nodes 	Coord
+3				(1, 1)
+4				(2, 0)
+8				(4, 0)
+11				(5, 1)
+
+Available station nearby (no report received in last 2 iterations): 3 4 8 11
+Communication Time: -0.415628
+Total Messages send between reporting node and base station: 2
+
+------------------------------------------------------------------------------------------------------------
+Iteration: 4
+Logged Time: 			Mon 2023-10-16 02:44:13
+Alert reported time: 	Mon 2023-10-16 02:44:13
+Number of adjacent node: 2
+Availability to be considered full: 3
+
+Reporting Node 	Coord 		Port Value 	Available Port
+15				(7, 1) 				5 		3
+
+Adjacent Nodes 	Coord 		Port Value 	Available Port
+14				(7, 0) 				5 		1
+13				(6, 1) 				5 		1
+
+Nearby Nodes 	Coord
+11				(5, 1)
+12				(6, 0)
+
+Available station nearby (no report received in last 2 iterations): 11 12
+Communication Time: 0.008355
+Total Messages send between reporting node and base station: 2
+
